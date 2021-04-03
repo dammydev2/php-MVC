@@ -1,0 +1,11 @@
+{
+  "name": "dammydev/dammydevmvc",
+  "type": "project",
+  "require": {
+    "illuminate/database": "^8.14",
+    "rbdwllr/reallysimplejwt": "^4.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
